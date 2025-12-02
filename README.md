@@ -83,7 +83,7 @@ Smooth navigation & optimized assets
 
 🔗 Live: https://qhomes.mtscorporate.com/en
 
-💻 Code: Add your GitHub repo link here
+💻 Code: https://github.com/shanjid5566/qHomes.git
 
 </div>
 
@@ -111,7 +111,7 @@ Business-friendly content presentation
 
 🔗 Live: https://prasad-1.mtscorporate.com/
 
-💻 Code: Add your GitHub repo link here
+💻 Code: https://github.com/shanjid5566/Indian_Drone_service.git
 
 </div>
 
