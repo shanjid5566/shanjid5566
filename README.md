@@ -52,6 +52,7 @@ I love modern UI like **Glassmorphism, Neumorphism & Dark Futuristic** themes.
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Coolify-6366F1?style=for-the-badge&logo=coolify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
