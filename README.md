@@ -1,9 +1,11 @@
-<h1 align="center" style="font-weight: bold;">
-  👋 Hey, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=6EE7B7&center=true&vCenter=true&width=435&lines=Shanjid+Ahmed+Rafi" 
-       alt="Typing SVG" 
-       style="vertical-align: middle;">
-</h1>
+<div align="center">
+  <h1 style="display: flex; align-items: center; justify-content: center; gap: 10px; font-weight: bold;">
+    👋 Hey, I'm 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=6EE7B7&center=false&vCenter=true&width=400&lines=Shanjid+Ahmed+Rafi" 
+         alt="Typing SVG" 
+         style="vertical-align: middle;">
+  </h1>
+</div>
 
 <p align="center">
   <b>MERN Stack Developer | Full-Stack Specialist | Creative Problem Solver</b>
