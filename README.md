@@ -1,6 +1,3 @@
-<!-- Banner -->
-
-<!-- Title -->
 <h1 align="center" style="font-weight: bold;">
   👋 Hey, I'm 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&pause=500&color=6EE7B7&center=true&vCenter=true&width=435&lines=Shanjid+Ahmed+Rafi" 
@@ -9,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b>MERN Stack Developer | Frontend Specialist | Creative Problem Solver</b>
+  <b>MERN Stack Developer | Full-Stack Specialist | Creative Problem Solver</b>
   <br/>
   <span style="opacity:0.8;">I love building modern, beautiful & scalable web apps.</span>
 </p>
@@ -28,15 +25,11 @@
   width: 90%;
 ">
   
-### 🚀 Passionate MERN Stack Developer  
-I build full-stack web applications with clean UI & optimized backend.  
-I love modern UI like **Glassmorphism, Neumorphism & Dark Futuristic**.  
+### 🚀 Passionate Full-Stack Developer  
+I build full-stack web applications with clean UI & optimized backend systems.  
+I love modern UI like **Glassmorphism, Neumorphism & Dark Futuristic** themes.  
 
-🌐 Portfolio → **https://shanjid-protfollio-delta.vercel.app/**  
-📬 Email → **shanjidahmed66@gmail.com**  
-🔗 LinkedIn → **https://www.linkedin.com/in/shanjid-ahmed-0b1691157/**  
-
-</div>
+🌐 Portfolio → **https://shanjid-protfollio-delta.vercel.app/** 📬 Email → **shanjidahmed66@gmail.com** 🔗 LinkedIn → **https://www.linkedin.com/in/shanjid-ahmed-0b1691157/** </div>
 
 ---
 
@@ -47,72 +40,62 @@ I love modern UI like **Glassmorphism, Neumorphism & Dark Futuristic**.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Coolify-6366F1?style=for-the-badge&logo=coolify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
 ## 🧊 Featured Projects 
 
-📌 1. QHomes — Next.js Real Estate Web App
+📌 **School Management System**
 <div style=" padding: 15px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); ">
 
-🔹 Description:
-A modern, high-performance real-estate web application where users can browse properties, check details, and explore listings with a smooth and clean UI.
+🔹 **Description:** A comprehensive system that streamlines administrative tasks, student information management, and communication between teachers, students, and parents.
+🔧 **Tech:** React, Express, TypeScript, PostgreSQL, Socket.IO
 
-🔧 Tech: Next.js, Tailwind CSS, REST API, Deployment
-
-✨ Key Features:
-
-Fast server-side rendering (Next.js)
-
-Clean, responsive real-estate UI
-
-Property listing & detail pages
-
-SEO-optimized page structure
-
-Smooth navigation & optimized assets
-
-🔗 Live: https://qhomes.mtscorporate.com/en
-
-💻 Code: https://github.com/shanjid5566/qHomes.git
-
+🔗 [Live Demo](https://edu-pro-frontend.vercel.app/login) | 💻 [Frontend Code](https://github.com/shanjid5566/edu_pro_frontend.git) | ⚙️ [Backend Code](https://github.com/shanjid5566/edu_pro_backend.git)
 </div>
 
----
+<br/>
 
-📌 2. Prasad – Modern React Web Application
+📌 **Advertising Platform**
 <div style=" padding: 15px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); ">
 
-🔹 Description:
-A clean and modern React-based web application built for product, content, or service presentation. Fast UI, smooth routing, and mobile-optimized layout make this app ideal for business or corporate use.
+🔹 **Description:** A dynamic advertising platform connecting businesses with target audiences through personalized ad campaigns and real-time analytics.
+🔧 **Tech:** React, Node.js, Express, TypeScript, PostgreSQL, Stripe
 
-🔧 Tech: React.js, Tailwind CSS / CSS Modules, React Router, Deployment (Vercel)
+🔗 [Live Demo](https://sideguru.vercel.app/) | 💻 [Frontend Code](https://github.com/shanjid5566/sideguru.git) | ⚙️ [Backend Code](https://github.com/shanjid5566/sideguru_backend.git)
+</div>
 
-✨ Key Features:
+<br/>
 
-Clean & professional UI/UX
+📌 **Travel Agency Website**
+<div style=" padding: 15px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); ">
 
-Fully responsive layout
+🔹 **Description:** Visually stunning travel agency website offering seamless booking experiences, destination guides, and personalized recommendations.
+🔧 **Tech:** React, PostgreSQL, Express, TypeScript
 
-Optimized routing for faster navigation
+🔗 [Live Demo](https://iwona-frontend.vercel.app/) | 💻 [Frontend Code](https://github.com/shanjid5566/iwona05_500_frontend.git) | ⚙️ [Backend Code](https://github.com/shanjid5566/iwona_backend.git)
+</div>
 
-Modern component-based structure
+<br/>
 
-Business-friendly content presentation
+📌 **E-commerce Application**
+<div style=" padding: 15px; border-radius: 16px; backdrop-filter: blur(12px); background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); ">
 
-🔗 Live: https://prasad-1.mtscorporate.com/
+🔹 **Description:** Feature-rich e-commerce application with a modern UI, product management, and a seamless checkout experience.
+🔧 **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS
 
-💻 Code: https://github.com/shanjid5566/Indian_Drone_service.git
-
+🔗 [Live Demo](https://backbencher-mart-frontend.vercel.app/) | 💻 [Frontend Code](https://github.com/shanjid5566/backbencherMart_frontend.git) | ⚙️ [Backend Code](https://github.com/shanjid5566/backbencherMart.git)
 </div>
 
 ---
